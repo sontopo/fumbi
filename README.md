@@ -1,7 +1,3 @@
-# Hi, I'm Kabir! 👋
-
-I'm a Discord Bot Developer and here is mine Discord Music Bot
-
 # Advance Discord Music Bot
 
 a discord music bot with many commands , buttons , 24/7 , autoresume ,etc
